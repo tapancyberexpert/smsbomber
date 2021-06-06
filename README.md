@@ -1,4 +1,4 @@
-<h1 align="center">TBomb v2.2</h1>
+<h1 align="center">SMS Bomber v2.2</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
 ## Note:
@@ -51,12 +51,12 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/Hackertrackersj/Tbomb.git
+git clone https://github.com/tapancyberexpert/smsbomber.git
 cd Tbomb
 chmod +x TBomb.sh
 ./TBomb.sh
 ```
-## youtube channel <a href="https://www.youtube.com/channel/UCfzFTlm5vHNSrzZFm-At-Yw"> click here</a>
+## youtube channel <a href="https://www.youtube.com/channel/UCECwQudL-F-CT9pwP21gMoA"> click here</a>
 
 ### > For Linux:
 
@@ -70,7 +70,7 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/Hackertrackersj/Tbomb
+git clone https://github.com/tapancyberexpert/smsbomber
 cd TBomb
 chmod +x TBomb.sh
 sudo bash TBomb.sh
@@ -90,7 +90,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/Hackertrackersj/Tbomb
+git clone https://github.com/tapancyberexpert/smsbomber
 cd TBomb
 chmod +x TBomb.sh
 
@@ -105,13 +105,13 @@ sudo bash TBomb.sh
 
 ## Demontrative Video:
 
-- Watch Indian Bombing Method <a href="https://youtu.be/gq7NKkNYuVA">here</a><br>
+- Watch Indian Bombing Method <a href="https://www.youtube.com/watch?v=hu21s6FVUQw&t=5s">here</a><br>
 
 
 ## CONTRIBUTORS:
 
-- **SpeedX**<br>
-[-] Mail At:https://github.com/Hackertrackersj/Tbomb
+- **Tapan Kumar Jha**<br>
+[-] Mail At: https://github.com/tapancyberexpert/smsbomber.git
 
 
 
@@ -123,8 +123,7 @@ sudo bash TBomb.sh
 Feel Free To Open An Issue...
 
 ```
-                 Mail:https://github.com/Hackertrackersj/Tbomb
-       YouTube Channel:https://www.youtube.com/channel/UCqqNyOaX6Dxwg5e6Bf6reSw
+       YouTube Channel:https://www.youtube.com/channel/UCECwQudL-F-CT9pwP21gMoA
 ```
 
 <a href="https:
